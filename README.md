@@ -24,6 +24,6 @@
  </div> <br>
 
 # 🌌 Objetivos
-- Faculdade de Desenvolvimento de Jogos<br>
+> Faculdade de Desenvolvimento de Jogos<br> Faculdade de Linguagens<br>Criar um jogo indie<br>Lecionar Inglês<br>Lecionar Português<br>Fluência em Espanhol, Mandarim e Japonês.
 
  
