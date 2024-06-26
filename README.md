@@ -1,6 +1,4 @@
 
-### Opa! Meu nome é Gomes.
-
 # 🌙 Sobre Mim:
 > Estudante de Informática para a Internet no SENAI<br>  3° ano;<br>  Futuramente faculdade de Desenvolvimento de Jogos(Exatas) e Linguagens(Humanas);<br>  Chainsaw Man fan;<br>  OMORI, Outer Wilds & Undertale;<br>  Escuto de tudo.
 
