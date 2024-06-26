@@ -1,5 +1,14 @@
 
-### Opa! Meu nome é Davi Gomes
+### Opa! Meu nome é Gomes.
+
+### Sobre Mim:
+- Estudante de Informática para a Internet no SENAI;
+- 3° ano;
+- Futuramente faculdade de Desenvolvimento de Jogos(Exatas) e Linguagens(Humanas);
+-  Chainsaw Man fan;
+-  OMORI, Outer Wilds & Undertale;
+-  Escuto de tudo.
+
 
 ![Gomes GitHub stats](https://github-readme-stats.vercel.app/api?username=gomes1401&show_icons=true&theme=dark)
 
