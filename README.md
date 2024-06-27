@@ -2,11 +2,11 @@
 # 🌙 Sobre Mim:
 > Estudante de Informática para a Internet no SENAI<br>  3° ano;<br>  Futuramente faculdade de Desenvolvimento de Jogos(Exatas) e Linguagens(Humanas);<br>  Chainsaw Man fan;<br>  OMORI, Outer Wilds & Undertale;<br>  Escuto de tudo.
 
-# 🌟 Status
+# 🌟 GitHub Status
 
 ![Gomes GitHub stats](https://github-readme-stats.vercel.app/api?username=gomes1401&show_icons=true&theme=dark)
 
-## 👾 Linguagens
+## 👾 Tech Stack
 
 <div style="display: inline_block"><br>
 <img align="center" alt="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
